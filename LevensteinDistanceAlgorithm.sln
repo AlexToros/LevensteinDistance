@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevensteinDistanceCalculation", "LevensteinDistanceCalculation\LevensteinDistanceCalculation.csproj", "{27FB196A-FA17-4AC7-AE86-1EFB290919BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevensteinTest", "LevensteinTest\LevensteinTest.csproj", "{32EEC6B5-24A2-4BE9-8D1E-6D2CE350E6D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{27FB196A-FA17-4AC7-AE86-1EFB290919BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27FB196A-FA17-4AC7-AE86-1EFB290919BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27FB196A-FA17-4AC7-AE86-1EFB290919BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32EEC6B5-24A2-4BE9-8D1E-6D2CE350E6D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32EEC6B5-24A2-4BE9-8D1E-6D2CE350E6D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32EEC6B5-24A2-4BE9-8D1E-6D2CE350E6D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32EEC6B5-24A2-4BE9-8D1E-6D2CE350E6D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
