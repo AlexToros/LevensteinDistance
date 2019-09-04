@@ -95,9 +95,10 @@ namespace LevensteinPresentation
             }
             for (int i = 1; i < ColumnCount; i++)
             {
-                Rows[0].Cells[i].Value = LevMatrix[i, 0];
+                Rows[0].Cells[i].Value = LevMatrix[0, i];
                 Columns[i].HeaderCell.Value = LevMatrix.SecondWord[i - 1].ToString();
             }
+            Rows[0].HeaderCell.Value = Columns[0].HeaderCell.Value = "*";
         }
 
         private void LevMatrix_OnNewCurrentCell(int rowIndx, int colIndx)
