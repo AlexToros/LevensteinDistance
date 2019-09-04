@@ -7,7 +7,7 @@ using System.ComponentModel;
 
 namespace LevensteinPresentation
 {
-    class LevenstainMatrix : INotifyPropertyChanged
+    public class LevenstainMatrix : INotifyPropertyChanged
     {
         private bool state = true;
         private int?[,] matrix;
