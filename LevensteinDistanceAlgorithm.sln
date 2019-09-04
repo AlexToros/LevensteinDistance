@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevensteinDistanceCalculati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevensteinTest", "LevensteinTest\LevensteinTest.csproj", "{32EEC6B5-24A2-4BE9-8D1E-6D2CE350E6D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevensteinPresentation", "LevensteinPresentation\LevensteinPresentation.csproj", "{984E41B8-BE45-4896-A19D-13AFC67AB6FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{32EEC6B5-24A2-4BE9-8D1E-6D2CE350E6D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32EEC6B5-24A2-4BE9-8D1E-6D2CE350E6D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32EEC6B5-24A2-4BE9-8D1E-6D2CE350E6D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{984E41B8-BE45-4896-A19D-13AFC67AB6FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{984E41B8-BE45-4896-A19D-13AFC67AB6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{984E41B8-BE45-4896-A19D-13AFC67AB6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{984E41B8-BE45-4896-A19D-13AFC67AB6FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
